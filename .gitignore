@@ -5,3 +5,6 @@ prefs
 
 #backed up save files
 *.bak
+
+# OS X fs nonsense
+.DS_Store
